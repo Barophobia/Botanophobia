@@ -1,0 +1,34 @@
+description = ''
+
+author = 'Barophobia'
+authorURL = 'https://your-site.com/'
+
+currentYear = 2023
+# projectStartYear = 2020
+
+twitterURL = 'https://www.twitter.com/'
+githubURL = 'https://github.com/barophobia'
+youtubeURL = 'https://www.youtube.com/'
+
+buyMeACoffeeURL = 'https://www.buymeacoffee.com/'
+
+#googleAdSense = 'ca-pub-xxxxxxxxxxxxxxxx'
+
+[algolia]
+[algolia.en]
+container = '#site-header-search'
+appId = ''
+indexName = ''
+apiKey = ''
+
+#[[githubRepos]]
+#name = 'Website'
+#repo = 'docura/site'
+#icon = "<i class='icon icon-book'></i>"
+#description = 'The repository of the website.'
+#
+#[[githubRepos]]
+#name = 'Code'
+#repo = 'docura/docura'
+#icon = "<i class='icon icon-theme'></i>"
+#description = 'The repository of the theme.'
