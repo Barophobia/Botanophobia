@@ -11,7 +11,7 @@ facebookURL = ''
 twitterURL = ''
 youtubeURL = ''
 
-githubSponsorURL = ''
+githubSponsorURL = 'https://github.com/sponsors/Barophobia'
 buyMeACoffeeURL = ''
 
 #googleAdSense = 'ca-pub-xxxxxxxxxxxxxxxx'
