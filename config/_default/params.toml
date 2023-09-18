@@ -6,11 +6,13 @@ authorURL = 'https://your-site.com/'
 currentYear = 2023
 # projectStartYear = 2020
 
-twitterURL = 'https://www.twitter.com/'
 githubURL = 'https://github.com/barophobia'
-youtubeURL = 'https://www.youtube.com/'
+facebookURL = ''
+twitterURL = ''
+youtubeURL = ''
 
-buyMeACoffeeURL = 'https://www.buymeacoffee.com/'
+githubSponsorURL = ''
+buyMeACoffeeURL = ''
 
 #googleAdSense = 'ca-pub-xxxxxxxxxxxxxxxx'
 
